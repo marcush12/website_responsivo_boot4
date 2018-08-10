@@ -1,0 +1,104 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  height: 100%;
+  width: 100%;
+}
+.site-wrapper{
+  height: 100%;
+  width: 100%;
+  background-image: url('Stock/Background_1.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #f7f7f7;
+}
+
+.navbar-nav li a{
+  font-size: 0.8em;
+  margin: 0 10px;
+  color: #f7f7f7 !important;
+}
+
+.site-title{
+  text-align: center;
+  margin-top: 7%;
+  height: 74vh;
+}
+
+.site-title h2{
+  font-size: 3em;
+  margin: 5% 0%;
+}
+
+.title-text{
+  width: 50vw;
+  height: 5vh;
+  font-size: 0.8em;
+  color: #f6f8ff;
+}
+
+.btn-sub1{
+  font-family: 'Patua One';
+  border: 1px solid #ef233c;
+  background-color: #edf2f4;
+  border-radius: 3px;
+  padding: .7em 1em;
+  color: #ef233c;
+  cursor: pointer;
+  transition: all 500ms ease;
+}
+
+.btn-sub2{
+  font-family: 'Patua One';
+  border: 1px solid  #edf2f4;
+  color: #edf2f4;
+  background-color:#ef233c;
+  border-radius: 3px;
+  padding: .7em 1em;
+  cursor: pointer;
+  transition: all 500ms ease;
+}
+.site-title i{
+  padding-left: .3em;
+}
+
+/* content-1 */
+
+.content-1 .col-md-12 h6{
+  font-size: 10px;
+  color: #EF233C;
+}
+.content-1 .col-md-12 .title-border{
+  content: "";
+  width: 30%;
+  height: 2px;
+  display: block;
+  background-color: #EF233C;
+  border-radius: 50%;
+  margin: 1%;
+  margin-left: 35%;
+}
+.content-1 .col-md-12 p{
+  font-size: 11px;
+  color: #3F494C;
+}
+
+.content-1 .curcle{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin-left: 9vw;
+  background-color: #F7FFF7;
+  border: 1px solid #3F494C;
+  color: #EF233C; 
+  transition: all 200ms ease;  
+}
+.content-1 .description a{
+  text-decoration: none;
+}
+.content-1 .description p{
+  font-size: 11px;
+}
+
+
+/* end of content-1 */
