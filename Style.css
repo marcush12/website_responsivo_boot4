@@ -177,4 +177,13 @@ body {
   border-radius: 3px;
   text-decoration: none;
 }
+.content-3 .enterprise p{
+  padding: 3% 28%;
+}
+.content-3 .basic a, .content-3 .enterprise a{
+  background-color: white;
+  color: black;
+  border: 1px solid #e30022;
+  transition: all 700ms ease;
+}
 /* end of content-3 */
