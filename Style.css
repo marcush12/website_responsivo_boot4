@@ -186,6 +186,10 @@ body {
   border: 1px solid #e30022;
   transition: all 700ms ease;
 }
+
+.content-3 .col-md-3{
+  padding: 0px;
+}
 /* end of content-3 */
 
 /* content-4 */
@@ -278,18 +282,15 @@ body {
 
 /* content-6 */
 
-.content-6 {
+
+.content-6{
   margin-bottom: 5%;
 }
-
 .content-6 .contact span{
-  color: #EF233C;
+  color: #EF233C
 }
-
-.content-6 .btn-submit{
-  background-color: #ef233c;
-  color: white;
-  cursor: pointer;
+.content-6 .contact{
+  margin-bottom: 5%;
 }
 
 /* end of content-6 */
